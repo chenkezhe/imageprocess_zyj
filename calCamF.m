@@ -1,0 +1,4 @@
+function f = calCamF(do,di)
+% º∆À„œ‡ª˙Ωπæ‡
+f = 1/(1/do + 1/di);
+end
